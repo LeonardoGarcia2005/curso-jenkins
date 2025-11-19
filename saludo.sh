@@ -1,2 +1,2 @@
 echo "Hola mundo con jenkins y github"
-echo "Probando triggers desde github y jenkins"
+echo "Probando triggers con webhook desde git usando Ngrok"
